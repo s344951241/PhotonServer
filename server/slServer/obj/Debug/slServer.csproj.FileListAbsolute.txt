@@ -1,0 +1,7 @@
+E:\gitPro\ulua\CLR\protonServer\slServer\obj\Debug\slServer.csprojResolveAssemblyReference.cache
+D:\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\slServer\bin\hibernate.cfg.xml
+D:\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\slServer\bin\log4net.config
+D:\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\slServer\bin\slServer.dll
+D:\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\slServer\bin\slServer.pdb
+E:\gitPro\ulua\CLR\protonServer\slServer\obj\Debug\slServer.dll
+E:\gitPro\ulua\CLR\protonServer\slServer\obj\Debug\slServer.pdb

@@ -1,0 +1,94 @@
+2017-12-04 21:41:59,100 [14] INFO  slServer.SLServer - Step Completed!
+2017-12-04 21:41:59,115 [14] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=SLGame; AppPath=D:\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\slServer, Type=slServer.SLServer 
+2017-12-04 21:42:27,260 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SLGame
+2017-12-04 21:42:27,265 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SLGame
+2017-12-04 21:42:35,848 [1] INFO  slServer.SLServer - Step Completed!
+2017-12-04 21:42:35,862 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=SLGame; AppPath=D:\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\slServer, Type=slServer.SLServer 
+2017-12-04 22:20:38,008 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SLGame
+2017-12-04 22:20:38,042 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SLGame
+2017-12-04 22:28:05,736 [1] INFO  slServer.SLServer - Step Completed!
+2017-12-04 22:28:05,752 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=SLGame; AppPath=D:\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\slServer, Type=slServer.SLServer 
+2017-12-04 22:36:53,075 [9] ERROR ExitGames.Threading.FailSafeBatchExecutor - System.NotImplementedException: 未实现该方法或操作。
+   在 slServer.TheClientPeer.OnDisconnect(DisconnectReason reasonCode, String reasonDetail) 位置 E:\gitPro\ulua\CLR\protonServer\slServer\TheClientPeer.cs:行号 20
+   在 Photon.SocketServer.PeerBase.OnApplicationDisconnect(DisconnectReason reasonCode, String reasonDetail, Int32 rtt, Int32 rttVariance, Int32 numFailures) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 1039
+   在 Photon.SocketServer.PeerBase.<>c__DisplayClass2.<Photon.SocketServer.IManagedPeer.Application_OnDisconnect>b__1() 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 874
+   在 ExitGames.Threading.FailSafeBatchExecutor.Execute(Action action) 位置 c:\(Work)\(EG)\exitgames-libs\src\Core\Threading\FailSafeBatchExecutor.cs:行号 111
+2017-12-04 22:38:02,336 [14] ERROR ExitGames.Threading.FailSafeBatchExecutor - System.NotImplementedException: 未实现该方法或操作。
+   在 slServer.TheClientPeer.OnDisconnect(DisconnectReason reasonCode, String reasonDetail) 位置 E:\gitPro\ulua\CLR\protonServer\slServer\TheClientPeer.cs:行号 20
+   在 Photon.SocketServer.PeerBase.OnApplicationDisconnect(DisconnectReason reasonCode, String reasonDetail, Int32 rtt, Int32 rttVariance, Int32 numFailures) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 1039
+   在 Photon.SocketServer.PeerBase.<>c__DisplayClass2.<Photon.SocketServer.IManagedPeer.Application_OnDisconnect>b__1() 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 874
+   在 ExitGames.Threading.FailSafeBatchExecutor.Execute(Action action) 位置 c:\(Work)\(EG)\exitgames-libs\src\Core\Threading\FailSafeBatchExecutor.cs:行号 111
+2017-12-04 22:38:35,777 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SLGame
+2017-12-04 22:38:35,777 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SLGame
+2017-12-04 22:39:15,115 [1] INFO  slServer.SLServer - Step Completed!
+2017-12-04 22:39:15,125 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=SLGame; AppPath=D:\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\slServer, Type=slServer.SLServer 
+2017-12-04 22:39:23,214 [11] INFO  slServer.SLServer - a client connecting
+2017-12-04 22:47:58,455 [12] INFO  slServer.SLServer - a client connecting
+2017-12-04 23:03:51,243 [17] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SLGame
+2017-12-04 23:03:51,246 [17] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SLGame
+2017-12-04 23:03:52,049 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SLGame
+2017-12-04 23:03:52,079 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SLGame
+2017-12-04 23:03:58,579 [1] INFO  slServer.SLServer - Step Completed!
+2017-12-04 23:03:58,597 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=SLGame; AppPath=D:\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\slServer, Type=slServer.SLServer 
+2017-12-04 23:04:08,651 [11] INFO  slServer.SLServer - a client connecting
+2017-12-04 23:04:23,219 [10] INFO  slServer.SLServer - 收到客户端协议:1参数Photon.SocketServer.SendParameters
+2017-12-04 23:04:25,569 [13] INFO  slServer.SLServer - 收到客户端协议:1参数Photon.SocketServer.SendParameters
+2017-12-04 23:04:25,951 [10] INFO  slServer.SLServer - 收到客户端协议:1参数Photon.SocketServer.SendParameters
+2017-12-04 23:04:31,970 [11] INFO  slServer.SLServer - 收到客户端协议:1参数Photon.SocketServer.SendParameters
+2017-12-04 23:04:34,628 [11] INFO  slServer.SLServer - 收到客户端协议:1参数Photon.SocketServer.SendParameters
+2017-12-04 23:04:35,274 [13] INFO  slServer.SLServer - 收到客户端协议:1参数Photon.SocketServer.SendParameters
+2017-12-04 23:04:40,558 [11] INFO  slServer.SLServer - 收到客户端协议:1参数Photon.SocketServer.SendParameters
+2017-12-04 23:05:17,286 [11] INFO  slServer.SLServer - 
+0000000005A4B8D0 Sent: 132982116 now: 133012162 (diff: 30046 >= max: 30000) new rtt timeout: 3200 since last touch:31060
+Disc: Seq: 18 CH: 255 RTT: 263 VAR: 343 Now: 133012162 Sent: 132982116 Diff: 30046 Resends: 7
+Resend: Seq: 18 CH: 255 RTT: 263 VAR: 343 Now: 133008106 Timeout: 3200 Resend: 7
+Resend: Seq: 18 CH: 255 RTT: 263 VAR: 343 Now: 133004050 Timeout: 3200 Resend: 6
+Resend: Seq: 18 CH: 255 RTT: 263 VAR: 343 Now: 132999993 Timeout: 3200 Resend: 5
+Resend: Seq: 18 CH: 255 RTT: 263 VAR: 343 Now: 132995937 Timeout: 3200 Resend: 4
+Resend: Seq: 18 CH: 255 RTT: 263 VAR: 343 Now: 132991881 Timeout: 3200 Resend: 3
+Resend: Seq: 18 CH: 255 RTT: 263 VAR: 343 Now: 132987825 Timeout: 3200 Resend: 2
+Resend: Seq: 18 CH: 255 RTT: 263 VAR: 343 Now: 132983769 Timeout: 3200 Resend: 1
+   ACK: Seq: 17 CH: 255 RTT: 263 VAR: 343 Now: 132981102 Sent: 132981086 Diff: 16
+   ACK: Seq: 16 CH: 255 RTT: 298 VAR: 376 Now: 132980072 Sent: 132979542 Diff: 530
+   ACK: Seq: 15 CH: 255 RTT: 265 VAR: 423 Now: 132978512 Sent: 132978512 Diff: 0
+   ACK: Seq: 14 CH: 255 RTT: 302 VAR: 476 Now: 132977483 Sent: 132977483 Diff: 0
+   ACK: Seq: 8 CH: 0 RTT: 345 VAR: 534 Now: 132975470 Sent: 132975455 Diff: 15
+   ACK: Seq: 13 CH: 255 RTT: 392 VAR: 602 Now: 132975314 Sent: 132975299 Diff: 15
+   ACK: Seq: 12 CH: 255 RTT: 445 VAR: 677 Now: 132974285 Sent: 132974269 Diff: 16
+   ACK: Seq: 11 CH: 255 RTT: 506 VAR: 759 Now: 132973239 Sent: 132973239 Diff: 0
+   ACK: Seq: 10 CH: 255 RTT: 578 VAR: 843 Now: 132972210 Sent: 132972210 Diff: 0
+   ACK: Seq: 7 CH: 0 RTT: 660 VAR: 932 Now: 132970213 Sent: 132970182 Diff: 31
+   ACK: Seq: 6 CH: 0 RTT: 749 VAR: 1033 Now: 132969542 Sent: 132969526 Diff: 16
+   ACK: Seq: 9 CH: 255 RTT: 853 VAR: 1133 Now: 132968918 Sent: 132968902 Diff: 16
+   ACK: Seq: 5 CH: 0 RTT: 972 VAR: 1232 Now: 132966890 Sent: 132966874 Diff: 16
+   ACK: Seq: 8 CH: 255 RTT: 1108 VAR: 1323 Now: 132966859 Sent: 132965970 Diff: 889
+   ACK: Seq: 7 CH: 255 RTT: 1139 VAR: 1692 Now: 132964940 Sent: 132964940 Diff: 0
+   ACK: Seq: 6 CH: 255 RTT: 1301 VAR: 1877 Now: 132963910 Sent: 132963910 Diff: 0
+   ACK: Seq: 5 CH: 255 RTT: 1486 VAR: 2069 Now: 132962881 Sent: 132962881 Diff: 0
+   ACK: Seq: 4 CH: 0 RTT: 1698 VAR: 2263 Now: 132960884 Sent: 132960853 Diff: 31
+   ACK: Seq: 3 CH: 0 RTT: 1936 VAR: 2462 Now: 132960478 Sent: 132960463 Diff: 15
+   ACK: Seq: 4 CH: 255 RTT: 2210 VAR: 2642 Now: 132960010 Sent: 132959995 Diff: 15
+   ACK: Seq: 2 CH: 0 RTT: 2523 VAR: 2791 Now: 132958154 Sent: 132958123 Diff: 31
+   ACK: Seq: 3 CH: 255 RTT: 2878 VAR: 2890 Now: 132957998 Sent: 132957998 Diff: 0
+   ACK: Seq: 2 CH: 255 RTT: 3289 VAR: 2894 Now: 132956984 Sent: 132953911 Diff: 3073
+   ACK: Seq: 2 CH: 255 RTT: 3319 VAR: 3786 Now: 132956984 Sent: 132949855 Diff: 7129
+   ACK: Seq: 2 CH: 255 RTT: 2775 VAR: 3778 Now: 132956984 Sent: 132946813 Diff: 10171
+   ACK: Seq: 2 CH: 255 RTT: 1719 VAR: 2571 Now: 132956984 Sent: 132945612 Diff: 11372
+Resend: Seq: 2 CH: 255 RTT: 341 VAR: 210 Now: 132953911 Timeout: 3200 Resend: 3
+Resend: Seq: 2 CH: 255 RTT: 341 VAR: 210 Now: 132949855 Timeout: 3200 Resend: 2
+Resend: Seq: 2 CH: 255 RTT: 341 VAR: 210 Now: 132946813 Timeout: 2362 Resend: 1
+   ACK: Seq: 1 CH: 255 RTT: 341 VAR: 210 Now: 132944598 Sent: 132944582 Diff: 16
+   ACK: Seq: 1 CH: 0 RTT: 387 VAR: 172 Now: 132943568 Sent: 132943552 Diff: 16
+   ACK: Seq: 0 CH: 255 RTT: 440 VAR: 106 Now: 132943396 Sent: 132943381 Diff: 15
+  Init: RTT: 500
+2017-12-04 23:06:30,005 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SLGame
+2017-12-04 23:06:30,011 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SLGame
+2017-12-04 23:06:36,566 [1] INFO  slServer.SLServer - Step Completed!
+2017-12-04 23:06:36,581 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=SLGame; AppPath=D:\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\slServer, Type=slServer.SLServer 
+2017-12-04 23:06:42,373 [10] INFO  slServer.SLServer - a client connecting
+2017-12-04 23:06:44,757 [12] INFO  slServer.SLServer - 收到客户端协议:1参数Photon.SocketServer.SendParameters
+2017-12-04 23:06:47,562 [10] INFO  slServer.SLServer - 收到客户端协议:1参数Photon.SocketServer.SendParameters
+2017-12-04 23:06:48,507 [13] INFO  slServer.SLServer - 收到客户端协议:1参数Photon.SocketServer.SendParameters
+2017-12-04 23:06:49,516 [10] INFO  slServer.SLServer - 收到客户端协议:1参数Photon.SocketServer.SendParameters
+2017-12-04 23:06:51,090 [12] INFO  slServer.SLServer - 收到客户端协议:1参数Photon.SocketServer.SendParameters
+2017-12-04 23:06:55,644 [10] INFO  slServer.SLServer - 

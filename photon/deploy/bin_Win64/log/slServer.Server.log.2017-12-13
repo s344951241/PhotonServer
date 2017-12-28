@@ -1,0 +1,2 @@
+2017-12-13 21:53:48,062 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SLGame
+2017-12-13 21:53:48,171 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SLGame

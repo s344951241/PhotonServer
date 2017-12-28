@@ -1,0 +1,11 @@
+2017-12-10 16:43:29,100 [1] INFO  slServer.SLServer - Step Completed!
+2017-12-10 16:43:29,116 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=SLGame; AppPath=D:\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\slServer, Type=slServer.SLServer 
+2017-12-10 16:45:12,575 [12] INFO  slServer.SLServer - a client connecting
+2017-12-10 16:45:13,449 [10] INFO  slServer.SLServer - 收到客户端协议:1参数:100客户端
+2017-12-10 16:45:26,335 [11] INFO  slServer.SLServer - 收到客户端协议:1参数:100客户端
+2017-12-10 16:45:52,652 [11] INFO  slServer.SLServer - 
+2017-12-10 16:45:58,174 [13] INFO  slServer.SLServer - a client connecting
+2017-12-10 16:46:02,636 [11] INFO  slServer.SLServer - 收到客户端协议:1参数:100客户端
+2017-12-10 16:46:09,126 [13] INFO  slServer.SLServer - 
+2017-12-10 16:56:29,289 [11] INFO  slServer.SLServer - a client connecting
+2017-12-10 16:56:36,949 [10] INFO  slServer.SLServer - 

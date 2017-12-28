@@ -1,0 +1,115 @@
+2017-12-09 20:34:36,907 [1] INFO  slServer.SLServer - Step Completed!
+2017-12-09 20:34:36,923 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=SLGame; AppPath=D:\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\slServer, Type=slServer.SLServer 
+2017-12-09 20:34:37,921 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SLGame
+2017-12-09 20:34:37,937 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SLGame
+2017-12-09 20:44:07,601 [1] INFO  slServer.SLServer - Step Completed!
+2017-12-09 20:44:07,611 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=SLGame; AppPath=D:\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\slServer, Type=slServer.SLServer 
+2017-12-09 20:44:18,361 [11] INFO  slServer.SLServer - a client connecting
+2017-12-09 20:44:18,634 [12] INFO  slServer.SLServer - 收到客户端协议:1参数Photon.SocketServer.SendParameters
+2017-12-09 20:44:22,059 [11] INFO  slServer.SLServer - 收到客户端协议:1参数Photon.SocketServer.SendParameters
+2017-12-09 20:44:28,693 [11] INFO  slServer.SLServer - 
+2017-12-09 21:10:02,426 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SLGame
+2017-12-09 21:10:02,492 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SLGame
+2017-12-09 21:10:24,632 [1] INFO  slServer.SLServer - Step Completed!
+2017-12-09 21:10:24,647 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=SLGame; AppPath=D:\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\slServer, Type=slServer.SLServer 
+2017-12-09 21:10:35,779 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SLGame
+2017-12-09 21:10:35,786 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SLGame
+2017-12-09 21:10:59,370 [1] INFO  slServer.SLServer - Step Completed!
+2017-12-09 21:10:59,385 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=SLGame; AppPath=D:\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\slServer, Type=slServer.SLServer 
+2017-12-09 21:11:26,376 [7] INFO  slServer.SLServer - a client connecting
+2017-12-09 21:11:31,418 [7] INFO  slServer.SLServer - 收到客户端协议:1参数Photon.SocketServer.SendParameters
+2017-12-09 21:11:47,325 [8] INFO  slServer.SLServer - 收到客户端协议:1参数Photon.SocketServer.SendParameters
+2017-12-09 21:11:50,480 [7] INFO  slServer.SLServer - 
+2017-12-09 21:11:55,811 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SLGame
+2017-12-09 21:11:55,818 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SLGame
+2017-12-09 21:12:39,590 [1] INFO  slServer.SLServer - Step Completed!
+2017-12-09 21:12:39,605 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=SLGame; AppPath=D:\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\slServer, Type=slServer.SLServer 
+2017-12-09 21:12:51,033 [13] INFO  slServer.SLServer - a client connecting
+2017-12-09 21:12:54,704 [11] INFO  slServer.SLServer - 收到客户端协议:1参数:100客户端
+2017-12-09 21:13:29,251 [10] INFO  slServer.SLServer - 
+000000000581B990 Sent: 6595129 now: 6622507 (diff: 27378 >= max: 30000) new rtt timeout: 3200 since last touch:28392
+Disc: Seq: 7 CH: 255 RTT: 346 VAR: 475 Now: 6622507 Sent: 6595129 Diff: 27378 Resends: 6
+Resend: Seq: 7 CH: 255 RTT: 346 VAR: 475 Now: 6618451 Timeout: 3200 Resend: 6
+Resend: Seq: 7 CH: 255 RTT: 346 VAR: 475 Now: 6614395 Timeout: 3200 Resend: 5
+Resend: Seq: 7 CH: 255 RTT: 346 VAR: 475 Now: 6610339 Timeout: 3200 Resend: 4
+Resend: Seq: 7 CH: 255 RTT: 346 VAR: 475 Now: 6606283 Timeout: 3200 Resend: 3
+Resend: Seq: 7 CH: 255 RTT: 346 VAR: 475 Now: 6602227 Timeout: 3200 Resend: 2
+Resend: Seq: 7 CH: 255 RTT: 346 VAR: 475 Now: 6598171 Timeout: 3200 Resend: 1
+   ACK: Seq: 6 CH: 255 RTT: 346 VAR: 475 Now: 6594099 Sent: 6594099 Diff: 0
+   ACK: Seq: 5 CH: 255 RTT: 395 VAR: 518 Now: 6593070 Sent: 6593070 Diff: 0
+   ACK: Seq: 4 CH: 255 RTT: 451 VAR: 559 Now: 6592040 Sent: 6592040 Diff: 0
+   ACK: Seq: 3 CH: 255 RTT: 515 VAR: 596 Now: 6591011 Sent: 6591011 Diff: 0
+   ACK: Seq: 2 CH: 255 RTT: 588 VAR: 623 Now: 6589997 Sent: 6589981 Diff: 16
+   ACK: Seq: 2 CH: 0 RTT: 669 VAR: 640 Now: 6588062 Sent: 6588047 Diff: 15
+   ACK: Seq: 1 CH: 255 RTT: 762 VAR: 636 Now: 6587922 Sent: 6586440 Diff: 1482
+   ACK: Seq: 1 CH: 255 RTT: 660 VAR: 607 Now: 6587922 Sent: 6585348 Diff: 2574
+Resend: Seq: 1 CH: 255 RTT: 387 VAR: 172 Now: 6586440 Timeout: 2150 Resend: 1
+   ACK: Seq: 1 CH: 0 RTT: 387 VAR: 172 Now: 6584334 Sent: 6584318 Diff: 16
+   ACK: Seq: 0 CH: 255 RTT: 440 VAR: 106 Now: 6584240 Sent: 6584224 Diff: 16
+  Init: RTT: 500
+2017-12-09 21:43:00,683 [15] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SLGame
+2017-12-09 21:43:00,685 [15] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SLGame
+2017-12-09 21:43:04,835 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SLGame
+2017-12-09 21:43:04,868 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SLGame
+2017-12-09 21:43:26,725 [1] INFO  slServer.SLServer - Step Completed!
+2017-12-09 21:43:26,744 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=SLGame; AppPath=D:\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\slServer, Type=slServer.SLServer 
+2017-12-09 21:43:58,843 [13] INFO  slServer.SLServer - a client connecting
+2017-12-09 21:43:58,911 [13] ERROR Photon.SocketServer.Peers.ManagedPeer - System.Exception: Peer is not initialized yet
+   在 Photon.SocketServer.PeerBase.SendEvent(IEventData eventData, SendParameters sendParameters) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 619
+   在 slServer.SLServer.CreatePeer(InitRequest initRequest) 位置 E:\gitPro\ulua\CLR\protonServer\slServer\SLServer.cs:行号 26
+   在 Photon.SocketServer.Peers.ManagedPeer.CreatePeerBase(InitRequest initRequest) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\Peers\ManagedPeer.cs:行号 189
+2017-12-09 21:44:33,497 [13] INFO  slServer.SLServer - 
+0000000008023090 Sent: 8458202 now: 8486750 (diff: 28548 >= max: 30000) new rtt timeout: 3200 since last touch:29562
+Disc: Seq: 6 CH: 255 RTT: 233 VAR: 231 Now: 8486750 Sent: 8458202 Diff: 28548 Resends: 7
+Resend: Seq: 6 CH: 255 RTT: 233 VAR: 231 Now: 8482694 Timeout: 3200 Resend: 7
+Resend: Seq: 6 CH: 255 RTT: 233 VAR: 231 Now: 8478638 Timeout: 3200 Resend: 6
+Resend: Seq: 6 CH: 255 RTT: 233 VAR: 231 Now: 8474582 Timeout: 3200 Resend: 5
+Resend: Seq: 6 CH: 255 RTT: 233 VAR: 231 Now: 8470526 Timeout: 3200 Resend: 4
+Resend: Seq: 6 CH: 255 RTT: 233 VAR: 231 Now: 8466470 Timeout: 3200 Resend: 3
+Resend: Seq: 6 CH: 255 RTT: 233 VAR: 231 Now: 8462414 Timeout: 3200 Resend: 2
+Resend: Seq: 6 CH: 255 RTT: 233 VAR: 231 Now: 8459372 Timeout: 2314 Resend: 1
+   ACK: Seq: 5 CH: 255 RTT: 233 VAR: 231 Now: 8457188 Sent: 8457173 Diff: 15
+   ACK: Seq: 4 CH: 255 RTT: 264 VAR: 235 Now: 8456158 Sent: 8456143 Diff: 15
+   ACK: Seq: 3 CH: 255 RTT: 299 VAR: 230 Now: 8455129 Sent: 8455113 Diff: 16
+   ACK: Seq: 2 CH: 255 RTT: 339 VAR: 213 Now: 8454099 Sent: 8454084 Diff: 15
+   ACK: Seq: 1 CH: 255 RTT: 385 VAR: 176 Now: 8453054 Sent: 8453054 Diff: 0
+   ACK: Seq: 0 CH: 255 RTT: 440 VAR: 106 Now: 8452040 Sent: 8452024 Diff: 16
+  Init: RTT: 500
+2017-12-09 21:45:31,090 [16] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SLGame
+2017-12-09 21:45:31,092 [16] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SLGame
+2017-12-09 21:45:34,820 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SLGame
+2017-12-09 21:45:34,850 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SLGame
+2017-12-09 21:45:45,661 [1] INFO  slServer.SLServer - Step Completed!
+2017-12-09 21:45:45,676 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=SLGame; AppPath=D:\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\slServer, Type=slServer.SLServer 
+2017-12-09 21:45:57,066 [11] INFO  slServer.SLServer - a client connecting
+2017-12-09 21:45:57,076 [11] ERROR Photon.SocketServer.Peers.ManagedPeer - System.Exception: Peer is not initialized yet
+   在 Photon.SocketServer.PeerBase.SendEvent(IEventData eventData, SendParameters sendParameters) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 619
+   在 slServer.TheClientPeer..ctor(InitRequest initRequest) 位置 E:\gitPro\ulua\CLR\protonServer\slServer\TheClientPeer.cs:行号 20
+   在 slServer.SLServer.CreatePeer(InitRequest initRequest) 位置 E:\gitPro\ulua\CLR\protonServer\slServer\SLServer.cs:行号 20
+   在 Photon.SocketServer.Peers.ManagedPeer.CreatePeerBase(InitRequest initRequest) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\Peers\ManagedPeer.cs:行号 189
+2017-12-09 21:46:28,673 [12] INFO  slServer.SLServer - 
+0000000007F7A5D0 Sent: 8573346 now: 8601926 (diff: 28580 >= max: 30000) new rtt timeout: 3200 since last touch:29594
+Disc: Seq: 3 CH: 255 RTT: 339 VAR: 213 Now: 8601926 Sent: 8573346 Diff: 28580 Resends: 7
+Resend: Seq: 3 CH: 255 RTT: 339 VAR: 213 Now: 8597870 Timeout: 3200 Resend: 7
+Resend: Seq: 3 CH: 255 RTT: 339 VAR: 213 Now: 8593814 Timeout: 3200 Resend: 6
+Resend: Seq: 3 CH: 255 RTT: 339 VAR: 213 Now: 8589758 Timeout: 3200 Resend: 5
+Resend: Seq: 3 CH: 255 RTT: 339 VAR: 213 Now: 8585702 Timeout: 3200 Resend: 4
+Resend: Seq: 3 CH: 255 RTT: 339 VAR: 213 Now: 8581646 Timeout: 3200 Resend: 3
+Resend: Seq: 3 CH: 255 RTT: 339 VAR: 213 Now: 8577590 Timeout: 3200 Resend: 2
+Resend: Seq: 3 CH: 255 RTT: 339 VAR: 213 Now: 8574548 Timeout: 2382 Resend: 1
+   ACK: Seq: 2 CH: 255 RTT: 339 VAR: 213 Now: 8572332 Sent: 8572317 Diff: 15
+   ACK: Seq: 1 CH: 255 RTT: 385 VAR: 176 Now: 8571287 Sent: 8571287 Diff: 0
+   ACK: Seq: 0 CH: 255 RTT: 440 VAR: 106 Now: 8570273 Sent: 8570258 Diff: 15
+  Init: RTT: 500
+2017-12-09 21:47:08,600 [16] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SLGame
+2017-12-09 21:47:08,602 [16] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SLGame
+2017-12-09 21:47:11,444 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SLGame
+2017-12-09 21:47:11,473 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SLGame
+2017-12-09 21:47:18,380 [1] INFO  slServer.SLServer - Step Completed!
+2017-12-09 21:47:18,394 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=SLGame; AppPath=D:\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\slServer, Type=slServer.SLServer 
+2017-12-09 21:52:35,105 [12] INFO  slServer.SLServer - a client connecting
+2017-12-09 21:52:44,889 [11] INFO  slServer.SLServer - 收到客户端协议:1参数:100客户端
+2017-12-09 21:52:46,937 [11] INFO  slServer.SLServer - 收到客户端协议:1参数:100客户端
+2017-12-09 21:52:50,354 [13] INFO  slServer.SLServer - 
+2017-12-09 22:43:24,258 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SLGame
+2017-12-09 22:43:24,326 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SLGame

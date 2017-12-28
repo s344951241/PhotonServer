@@ -1,0 +1,31 @@
+7452: 11:24:58.810 - ---
+7452: 11:24:58.810 - Service: "Photon Socket Server" starting
+7452: 11:24:58.810 - Config File: D:\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\bin_Win64\PhotonServer.config
+7452: 11:24:58.812 - Will produce at most: 10 crash dumps
+7452: 11:24:58.812 - MessageBox: Photon Socket Server - 4.0.28.2962
+
+Usage: PhotonSocketServer.exe  Followed by the following command line options.
+  /help		Display this list.
+  /noMessages	Must be first. Do not display status messages.
+  /install name	Installs an instance of the service named 'name'.
+  /installCounters	Installs performance counters for this service.
+  /remove name	Removes the instance of the service named 'name'.
+  /removeCounters	Removes performance counters for this service.
+  /run name   	Runs the service as a normal process for debugging.
+  /stop         	Request all instances of Photon to shutdown and exit.
+  /stop1 name	Request instance 'name' of Photon shutdown and exit.
+  /configPath path	Use the supplied path to locate the config file.
+  /config file	Use the supplied config file.
+
+Note that /config and /configFile can be used with /install and /run
+
+Note that only /noMessages can be combined with all other command line options.
+
+7452: 11:24:59.880 - Service shutting down: commandline option error. Errorcode: 255
+7452: 11:24:59.880 - Service shut down complete
+4392: 11:27:31.507 - ---
+4392: 11:27:31.507 - Service: "Photon Socket Server" starting
+4392: 11:27:31.507 - Config File: D:\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\bin_Win64\PhotonServer.config
+4392: 11:27:31.509 - Will produce at most: 10 crash dumps
+4392: 11:27:31.509 - Service shutting down
+4392: 11:27:31.513 - Service shut down complete
